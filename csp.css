@@ -1,8 +1,12 @@
+body {
+    color:rgb(193, 234, 234);
+}
 .lnk:link {
     color:chocolate;
 }
 .lnk:hover {
-    color:aqua; font-size:xx-large;
+    color:aqua;
+    font-size:xx-large;
 }
 h1 {
     color:black;
