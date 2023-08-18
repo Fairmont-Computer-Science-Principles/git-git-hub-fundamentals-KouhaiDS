@@ -1,0 +1,9 @@
+.lnk:link {
+    color:chocolate;
+}
+.lnk:hover {
+    color:aqua; font-size:xx-large;
+}
+h1 {
+    color:black;
+}
