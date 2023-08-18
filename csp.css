@@ -1,5 +1,9 @@
 body {
-    color:rgb(193, 234, 234);
+    background-color:rgb(193, 234, 234);
+}
+.top {
+    font-size:xx-large;
+    font-weight: bolder;
 }
 .lnk:link {
     color:chocolate;
